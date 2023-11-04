@@ -1,0 +1,21 @@
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\O Amor Vive - Semana do Calvário 2022.exe.config
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\O Amor Vive - Semana do Calvário 2022.exe
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\O Amor Vive - Semana do Calvário 2022.pdb
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.csproj.AssemblyReference.cache
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O_Amor_Vive___Semana_do_Calvário_2022.Properties.Resources.resources
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.csproj.GenerateResource.cache
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.csproj.CoreCompileInputs.cache
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.exe
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.pdb
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O_Amor_Vive___Semana_do_Calvário_2022.frmPrincipalCoplan.resources
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\Interop.WMPLib.dll
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\AxInterop.WMPLib.dll
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\Interop.WMPLib.dll
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\AxInterop.WMPLib.dll
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.csproj.ResolveComReference.cache
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O_Amor_Vive___Semana_do_Calvário_2022.frmMusic.resources
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O_Amor_Vive___Semana_do_Calvário_2022.frmPrincipalAndarai.resources
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\O Amor Vive - Semana do Calvário 2022.exe.manifest
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\bin\Debug\O Amor Vive - Semana do Calvário 2022.application
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.exe.manifest
+C:\TempDirectory - Semana do Calvário\O Amor Vive - Semana do Calvário 2022\obj\Debug\O Amor Vive - Semana do Calvário 2022.application

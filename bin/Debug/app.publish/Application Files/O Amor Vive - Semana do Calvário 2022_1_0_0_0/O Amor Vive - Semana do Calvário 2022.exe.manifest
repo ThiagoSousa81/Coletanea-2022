@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="O Amor Vive - Semana do Calvário 2022.exe" version="1.0.0.0" publicKeyToken="7c1a19959d7fe23b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icone.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="O Amor Vive - Semana do Calvário 2022" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="O Amor Vive - Semana do Calvário 2022.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>A73ww0/6vgDSijL+4H7XZqZVVrAwY1k1t8tONGl4fXA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="330752">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SAbC1r5hBcKROjGgy1+D+m9kSOvDs4IYShvOAND/d/8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="O Amor Vive - Semana do Calvário 2022.exe" size="1475592">
+      <assemblyIdentity name="O Amor Vive - Semana do Calvário 2022" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5NWAw6ge+C7Pqx+9sNFoTkZ5847lzLWhHbM8R0yW2+w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icone.ico" size="255614">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vdBrqVfbyewToc4o5h2g/xboKmf1lAYGFhP8+PgKHxo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="O Amor Vive - Semana do Calvário 2022.exe.config" size="289">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>iKkwC8hGfdoVu6O/8Wv+fFNDLO1OrHXN5jXcEfJywoA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-L7I663V\Tecno Space" issuerKeyHash="4734e2e7b49ab66c42ed670051210033322034a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/3y3ersUUCepQOqbW06x+vvsqSj2TKSb3Q2tXGufWEg=</DigestValue></Reference></SignedInfo><SignatureValue>ASVFLDPsYWvCwslD5KbnEkPWBHoP13VH+mIJx77QmQnYWaYZYO+GZikAp6t0iTKYoFyw3vlWgE7tseVL6OP4i98GdXsdNofz4fNrzIy+5AcS+mfB+Bsw4so8I1XH+niqKeVWowlGTZqt4PiJA4Z+tIU+Y3MPNRcHtlr91eDt3eU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y1VWPgi4DTEqnKC+GOQObUEAuwjsqa+gctjisFEVjWp3qk5C2cPkef4w7R2/5BZssNIsuJpFxvKP0yVhUjzdFf1R2ZJreS4MOJMawBBHc6MKdB9/gbSBsXBWwQAgbbGcM/ayJUOCDMzm+DyN8w5MX+qLY9dr/LGnt/w8JQDHHv0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="48589f6b5cad0ddd9ba44cf628a9ecfbfab14e5b9bea40a9275014bb7ab77cff" Description="" Url=""><as:assemblyIdentity name="O Amor Vive - Semana do Calvário 2022.exe" version="1.0.0.0" publicKeyToken="7c1a19959d7fe23b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-L7I663V\Tecno Space</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>lz12xI6UPY1mJWUh4eI5k30Zk3JwRTyDsihlGJRkk/k=</DigestValue></Reference></SignedInfo><SignatureValue>R7nPqcBFxFw8R2tn50wrxq2KLz4DNJLgj1cTEMKOmIve/4qohjb9zCdg3c/nixAJcg05nfbmMFE1zf6RqTYtMDYk7edx3i6Aagj98o9DQ0WFySDtf+F487tenqp43gghvb055oshdMJiN7LEE1CEom8Ko1YobyZzcrxD36Js9eg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y1VWPgi4DTEqnKC+GOQObUEAuwjsqa+gctjisFEVjWp3qk5C2cPkef4w7R2/5BZssNIsuJpFxvKP0yVhUjzdFf1R2ZJreS4MOJMawBBHc6MKdB9/gbSBsXBWwQAgbbGcM/ayJUOCDMzm+DyN8w5MX+qLY9dr/LGnt/w8JQDHHv0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQK301Qpeera9B6sPbWGu8bTANBgkqhkiG9w0BAQsFADBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtAEwANwBJADYANgAzAFYAXABUAGUAYwBuAG8AIABTAHAAYQBjAGUwHhcNMjIwNDA5MDEzMzMzWhcNMjMwNDA5MDczMzMzWjBBMT8wPQYDVQQDHjYARABFAFMASwBUAE8AUAAtAEwANwBJADYANgAzAFYAXABUAGUAYwBuAG8AIABTAHAAYQBjAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMtVVj4IuA0xKpygvhjkDm1BALsI7KmvoHLY4rBRFY1qd6pOQtnD5Hn+MO0dv+QWbLDSLLiaRcbyj9MlYVI83RX9UdmSa3kuDDiTGsAQR3OjCnQff4G0gbFwVsEAIG2xnDP2siVDggzM5vg8jfMOTF/qi2PXa/yxp7f8PCUAxx79AgMBAAEwDQYJKoZIhvcNAQELBQADgYEACC1oDR79EgAY0fMzlQxU6H7+fRD2HS4hoWyLDQ0gPKY5vhJB/5o9VgvsGMYcNh64pZgZTaEtwkJvlq3tOXacFOBkdYsNQka4WFEf5z4kYirapxRg+3HG936U8qhg83x5CB7hB/39yE+GCjGOXvj15ld24FJn2YDi9Wd/vameRlY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
